@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arham5Asif
-- 👀 I’m interested in java language
+- 👀 I’m interested in C++, Java, Python, Web Development.
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me arham5asif@gmail.com
 
